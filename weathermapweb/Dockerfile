@@ -1,4 +1,4 @@
-From 100.125.0.198:20202/hwcse/nodejs:1.0.0
+From swr.cn-south-1.myhuaweicloud.com/hwcse/nodejs:1.0.0
 
 RUN ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime && \
     echo "Asia/Shanghai" > /etc/timezone
